@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Trouser",
+      "color": "Green",
+      "id": 4
+    },
+    {
+      "name": "Hat",
+      "color": "Blue",
+      "id": 5
+    }
+  ]
+}
