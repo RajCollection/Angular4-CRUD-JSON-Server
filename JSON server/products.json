@@ -3,12 +3,12 @@
     {
       "name": "Trouser",
       "color": "Green",
-      "id": 4
+      "id": 1
     },
     {
       "name": "Hat",
       "color": "Blue",
-      "id": 5
+      "id": 2
     }
   ]
 }
